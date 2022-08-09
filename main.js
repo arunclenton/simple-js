@@ -63,7 +63,26 @@
 
 //  }
 
+// let n = parseInt(prompt("Enther the number"));
 
-var a = [aaaaaaaaaaaa];
-sum=0;
-for()
+// for(i = 1; i <= n; i++){
+//     if(n > 10 ){
+//         console.log(i);
+//     }
+//     else if(n <= 10){
+//         var d=Math.round(n/2)
+//         if(i==d){
+
+//          }
+//         else{
+//             console.log(i)
+//         }
+        
+//     }
+// }
+
+ var a = [aaaaaaaaaaaa];
+ sum=0;
+ for(i = 0 ;i <= a ;i++){
+    a.spilt('')
+ }
